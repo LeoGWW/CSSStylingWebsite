@@ -1,0 +1,138 @@
+body {
+  margin: 0;
+  background-color: #FEF9EF;
+  text-align: center;
+  font-family: 'PT Serif', serif;
+}
+
+hr {
+  border-color: #2D4263;
+  border-style: dotted;
+  margin: auto 650px;
+  border-width: 5px;
+  border-left: none;
+  border-bottom: none;
+  border-right: none;
+}
+
+
+
+h1 {
+  font-size: 85px;
+  font-family: 'Dancing Script', cursive;
+  color: #001E6C;
+  line-height: 2;
+}
+
+h2 {
+  font-size: 50px;
+  font-weight: normal;
+  font-family: 'Kalam', cursive;
+}
+
+h3 {
+  font-size: 35px;
+  font-family: 'Kalam', cursive;
+}
+
+.circular {
+  border-radius: 100%;
+  width: 250px;
+  height: 300px;
+}
+
+.top-container {
+  position: relative;
+  padding-top: 100px;
+  margin-bottom: 40px;
+  background-color: #B8FFF9;
+}
+/*Nubes del primer container*/
+.bottom-cloud {
+  height: 70px;
+  position: absolute;
+  right: 900px;
+  top: 250px;
+}
+
+.top-cloud {
+  height: 70px;
+  position: absolute;
+  top: 376px;
+  left: 400px;
+}
+#topcloud2{
+  height: 70px;
+  position: absolute;
+  top: 373px;
+  right: 450px;}
+#topcloud3{
+  height: 70px;
+  position: absolute;
+  bottom: 350px;
+  right: 200px;}
+#topcloud4{
+  height: 70px;
+  position: absolute;
+  bottom: 350px;
+  left: 90px;}
+.sun {
+  height: 280px;
+  width: 280px;
+  position:relative;
+  right: 700px;
+}
+
+/*Nubes del primer container*/
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 70%;
+  text-align: left;
+  line-height: 2;
+  font-size: 25px;
+}
+
+.skill-row2 {
+  margin: 100px auto 100px auto;
+  text-align: right;
+}
+
+.skill-row3 {
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+
+.contact-me {
+  background-color: #E8FFC2;
+  margin-top: 50px;
+  position: relative;
+  margin-bottom: 0;
+}
+
+.bottom-container {
+  margin-bottom: 0;
+  background-color: #E8FFC2;
+}
+
+.motherboard {
+  width: 220px;
+  height: 220px;
+  float: left;
+  margin-right: 30px;
+}
+
+.click {
+  width: 210px;
+  height: 210px;
+  float: left;
+  margin-left: 30px;
+}
+
+.coding {
+  height: 220px;
+  width: 220px;
+  margin-left: 30px;
+  float: right;
+}
